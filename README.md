@@ -17,4 +17,9 @@ This project is an interactive HR Attrition Dashboard built entirely using Micro
 -	Show the Attrition by Marital Status (Use Bar-Chart)
 -	Filter/Slicer 1: Education Wise
 -	Filter/Slicer 2: Department Wise
+  ## Process
+- Checked the dataset for missing values and anomalies, and resolved any issues found.
+- Ensured the data was clean and consistent in terms of data types, formats, and values.
+- Built pivot tables based on the specific questions provided.
+- Combined all pivot tables into a single dashboard and added slicers to make it interactive and dynamic
 
