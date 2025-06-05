@@ -24,4 +24,18 @@ This project is an interactive HR Attrition Dashboard built entirely using Micro
 - Combined all pivot tables into a single dashboard and added slicers to make it interactive and dynamic
 ## Dashboard
 ![Screenshot](https://github.com/redwan011235/Excel-Dashboard/blob/main/Screenshot%20of%20HR%20Attrition%20Dashboard%20in%20Excel.jpg)
+## Project Insight
+- Total number of employees in the organization can be instantly viewed as a KPI, giving an overview of workforce size.
+- Total attritions show how many employees have left the organization over the observed period.
+- Total number of active employees helps in understanding the current employee strength.
+- Attrition rate (%) provides a quick metric to gauge employee turnover.
+- Average employee age highlights the general age demographic of the workforce.
+- Gender distribution (Male vs. Female) is visualized using a donut chart, offering a quick glance at workforce diversity.
+- Attrition by education level shows which education groups have the highest or lowest attrition using a bar chart.
+- Tree map of attrition by job role visually identifies which job roles are experiencing higher attrition.
+- Pie chart of department-wise attrition helps identify departments with higher turnover, which could indicate job dissatisfaction or management issues
+- Column chart of attrition by age group shows whether younger or older employees are more likely to leave.
+- Attrition by marital status (bar chart) shows which marital groups are more likely to leave the organization.
+- Education-wise filter enables users to view all metrics and visuals filtered by specific education levels.
+- Department-wise filter allows for deep-diving into department-specific attrition trends and metrics.
 
