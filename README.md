@@ -38,4 +38,9 @@ This project is an interactive HR Attrition Dashboard built entirely using Micro
 - Attrition by marital status (bar chart) shows which marital groups are more likely to leave the organization.
 - Education-wise filter enables users to view all metrics and visuals filtered by specific education levels.
 - Department-wise filter allows for deep-diving into department-specific attrition trends and metrics.
+- Job roles with high attrition may need further HR attention for retention strategies.
+- Age groups or marital statuses with high attrition might point to work-life balance issues or career expectations.
+- If one gender shows significantly higher attrition, it may signal the need to explore gender-specific workplace policies.
+- Departments with high attrition could benefit from improved leadership, role clarity, or work environment enhancements.
+- Education level correlations with attrition can inform future hiring or training strategies.
 
