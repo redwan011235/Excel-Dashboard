@@ -22,4 +22,6 @@ This project is an interactive HR Attrition Dashboard built entirely using Micro
 - Ensured the data was clean and consistent in terms of data types, formats, and values.
 - Built pivot tables based on the specific questions provided.
 - Combined all pivot tables into a single dashboard and added slicers to make it interactive and dynamic
+## Dashboard
+![Screenshot](https://github.com/redwan011235/Excel-Dashboard/blob/main/Screenshot%20of%20HR%20Attrition%20Dashboard%20in%20Excel.jpg)
 
