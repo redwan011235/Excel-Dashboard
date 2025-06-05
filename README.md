@@ -1,6 +1,6 @@
 # HR Attrition Dashboard
 ## Project Objective
-This project is an interactive HR Attrition Dashboard built entirely using Microsoft Excel. It visualizes key HR metrics such as attrition rate, employee demographics, job roles, performance, and more. The dashboard enables HR professionals to quickly identify trends and make data-driven decisions to reduce employee turnover.
+The main goal of this project is to create an easy-to-understand dashboard using Excel that helps track and analyze employee attrition (people leaving the company). It shows key numbers like total employees, attrition rate, and average age. It also helps find out which groups (like departments, job roles, or age groups) have more people leaving, so the company can take steps to improve employee retention and workplace satisfaction.
 ## Datset Used
 - <a href="https://github.com/redwan011235/Excel-Dashboard/blob/main/Dataset%20of%20HR%20Attrition%20Project.xlsx">Dataset</a>
 ## Project requirements
